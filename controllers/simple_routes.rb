@@ -15,3 +15,4 @@ end
 get '/video' do
   redirect 'video.html'
 end
+
