@@ -29,12 +29,8 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="ruby-2.1.0-p0" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="ruby-1.9.3-p448" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, ruby-2.1.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-protection (v1.5.3, ruby-2.1.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sinatra (v1.4.5, ruby-2.1.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.4.1, ruby-2.1.0-p0) [gem]" level="application" />
   </component>
 </module>
 
